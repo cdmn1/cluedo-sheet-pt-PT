@@ -1,24 +1,24 @@
-- name: Knife
+- name: Faca
   base: true
   emoji: 🔪
   
-- name: Candlestick
+- name: Castiçal
   base: true
   emoji: 🕎
 
-- name: Revolver
+- name: Pistola
   base: true
   emoji: 🔫
 
-- name: Rope
+- name: Corda
   base: true
   emoji: ⛓️
 
-- name: Lead Pipe
+- name: Cano
   base: true
   emoji: 🦿
 
-- name: Wrench
+- name: Ferramenta
   base: true
   emoji: 🔧
 
