@@ -1,26 +1,26 @@
 # Base Rooms
-- name: Dining Room
+- name: Sala de Jantar
   base: true
   emoji: 🍽️
 
-- name: Kitchen
+- name: Cozinha
   base: true
   emoji: 🍳
 
-- name: Conservatory
+- name: Sala da Música 
   base: true
   emoji: 🔭
 
-- name: Billiard Room
+- name: Salão de Jogos
   base: true
   emoji: 🎱
 
-- name: Library
+- name: Biblioteca 
   base: true
   emoji: 📚
 
 # Standard Edition only
-- name: Lounge
+- name: Sala
   base: false
   edition: standard
   emoji: 🛋️
@@ -30,12 +30,12 @@
   edition: standard
   emoji: 🏛️
 
-- name: Ballroom
+- name: Salão de Festas
   base: false
   edition: standard
   emoji: 🕺
 
-- name: Study
+- name: Escritório
   base: false
   edition: standard
   emoji: 📜
